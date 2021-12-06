@@ -1,3 +1,10 @@
 body {
   background-color: 3BF4F8;
 }
+
+body {
+  font-family: system-ui;
+  background: #800080;
+  color: white;
+  text-align: center;
+}
